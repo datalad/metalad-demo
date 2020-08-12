@@ -70,3 +70,7 @@
 	path = study-90
 	url = /home/cristian/datalad/inm7-studies/inm7-studies-superset/../study-datasets/study-90
 	datalad-id = 58253d06-dc76-11ea-aa7e-7cdd908c7490
+[submodule "study-91"]
+	path = study-91
+	url = /home/cristian/datalad/inm7-studies/inm7-studies-superset/../study-datasets/study-91
+	datalad-id = 57796120-dc76-11ea-a8c4-7cdd908c7490
