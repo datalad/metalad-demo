@@ -67,7 +67,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/f0/823ed7cd03b23e17a215bd786ccbdd1b943b3b.xz",
+"objects/46/3e01e13a5629c6a56bb9e94a859c9bee95c1f9.xz",
 "extractors":
 {
 "annex":
@@ -130,7 +130,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/67/69d3c02a0501ad60159b85d7335d98095a7a5d.xz",
+"objects/2d/967e13f4d2781eb8e045cb53628888fe71bc58.xz",
 "extractors":
 {
 "annex":
@@ -193,7 +193,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/e3/ae86107a629b675f3315233fb12e5f0ea044d7.xz",
+"objects/4b/2c46bd6a6880b7b4384d00a5fa433cadd78592.xz",
 "extractors":
 {
 "annex":
@@ -256,7 +256,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/e5/41a17f8f009f96c9762c7d77eed70a1350b345.xz",
+"objects/5b/f102d31d2bcdebd1dc2ffb3423d402cb362741.xz",
 "extractors":
 {
 "annex":
@@ -319,7 +319,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/ad/7742b3979f99440e511fcb0c1a0d66f0619b5c.xz",
+"objects/8e/960bf99df1cce394eb57aae1bf140e76d72d67.xz",
 "extractors":
 {
 "annex":
@@ -382,7 +382,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/45/c8e86b1e6c44cfee2915bd953ad0ccb10ba1cb.xz",
+"objects/3a/c3958085b55f4e8c16280a54f92ab220622659.xz",
 "extractors":
 {
 "annex":
@@ -445,7 +445,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/67/f2d8f41f5ce7371c1f65a76d1f215b0dc2f2fe.xz",
+"objects/b4/3abb0560b75f187c22b82b69b7a86c03f79a2b.xz",
 "extractors":
 {
 "annex":
@@ -508,7 +508,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/0b/ecdbb8f8996586ad49ac3659a71d7e4a2e0de7.xz",
+"objects/70/51d59b3d4e7e26e7cf69d7a699246258215154.xz",
 "extractors":
 {
 "annex":
@@ -571,7 +571,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/4f/392973c0690e480a42c11170eaa9b2b6226857.xz",
+"objects/92/f387f52bd361ab33d012295fb6bf61ef826a0f.xz",
 "extractors":
 {
 "annex":
@@ -634,7 +634,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/e3/3b98e9cde65c1e5a81396144e7c783ee1d4c3b.xz",
+"objects/09/5125cc01396ae78807e3a38f7c527f751115ac.xz",
 "extractors":
 {
 "annex":
@@ -697,7 +697,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/9d/ff11bf31cc1d82ae5f63159e91ba5405f6aaba.xz",
+"objects/b2/74bc82ba16f5ee4089a9f6eb0f247f468e9c3f.xz",
 "extractors":
 {
 "annex":
@@ -760,7 +760,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/29/73d832e7031460cdfae6fc01fa896ad9c544ab.xz",
+"objects/ad/a5550b7a5024b1a36698930579a8889dac2750.xz",
 "extractors":
 {
 "annex":
@@ -823,7 +823,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/21/9f378612abec8cb9936773472f0402cebb74ca.xz",
+"objects/54/c879bb365b7727b05821c29a949f90a93af0ef.xz",
 "extractors":
 {
 "annex":
@@ -886,7 +886,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/45/f4bdb9f47b8ff99255ad48c735ad6ec78e1ff4.xz",
+"objects/79/e81d0444ba817d37aabc637654a2003f5f6d32.xz",
 "extractors":
 {
 "annex":
@@ -949,7 +949,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/ce/3f2f96acaa95b92f4c359157ad3315931ed149.xz",
+"objects/63/593a68857ba7fccd3cb4ed20b860fa14760812.xz",
 "extractors":
 {
 "annex":
@@ -1012,7 +1012,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/79/8dd0aff4bd70c1fe7732ca561e88a6d8e1a0fe.xz",
+"objects/a1/372380eb3c3a0affe37be21978ef61302e7a0a.xz",
 "extractors":
 {
 "annex":
@@ -1075,7 +1075,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/fc/d6e5908148c5e3df61a917b64004084fe645a4.xz",
+"objects/38/5dbfcac961122915124162c0abaa3278597d51.xz",
 "extractors":
 {
 "annex":
@@ -1138,7 +1138,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/22/1cda411ba859c278ec2a7a07c7888c40864d52.xz",
+"objects/ee/b7b475c3faa46bbf972da976e3d12f0df10834.xz",
 "extractors":
 {
 "annex":
@@ -1201,7 +1201,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/92/e472d71ed518a6c30aa6bfcabc13751b2762dd.xz",
+"objects/25/5598fadbf04e3cb9bd5f880dda0725ebd9603a.xz",
 "extractors":
 {
 "annex":
@@ -1264,7 +1264,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/92/1c96dbf5e47d49196618f77ab315ce8fa39f2b.xz",
+"objects/16/b1a2b8dbf1d92e6d0f1f24f3bbef414a7f2214.xz",
 "extractors":
 {
 "annex":
@@ -1327,7 +1327,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/24/d0edf2a5c4fcfaff90e5e11ab3cae5ea1a30d8.xz",
+"objects/35/748f007deb0012ebf73c8f78cc389496b71446.xz",
 "extractors":
 {
 "annex":
@@ -1390,7 +1390,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/52/fdb33e31d1c72841a0eeae15822f61066830cb.xz",
+"objects/55/d238e5bf0bfc482e5a7b5774ef8545493dd1f5.xz",
 "extractors":
 {
 "annex":
@@ -1453,7 +1453,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/4b/6f076cd45c1899fb84277497338f57f0db962b.xz",
+"objects/f0/521df7eaacd7976a98b4b2a9d4c2f8fe6ab647.xz",
 "extractors":
 {
 "annex":
@@ -1516,7 +1516,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/5c/0ce8931e28698cc550b7cfcd404ec38038e849.xz",
+"objects/63/69772d56c6dcf2fbc52dd5bd3bca0e43478f15.xz",
 "extractors":
 {
 "annex":
@@ -1579,7 +1579,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/2d/e3bc03612a1d054cab4336d31e295179b1f167.xz",
+"objects/01/b3d2c920664bfc599923ac085f0aef6cc916a4.xz",
 "extractors":
 {
 "annex":
@@ -1642,7 +1642,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/6a/96633c7dbea26ac92365b9a5479c9f4d78a696.xz",
+"objects/41/e830e901f6f4d07b26622712b14dd53e02d8a3.xz",
 "extractors":
 {
 "annex":
