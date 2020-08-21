@@ -4,7 +4,7 @@
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/d0/0379bd846dcab3ad91e80c51862a0ffccee71c.xz",
+"objects/07/8a91c724edfbceb4c3414269bd269b38c623b2.xz",
 "extractors":
 {
 "annex":
@@ -41,8 +41,8 @@ true,
 true,
 "unique_exclude":
 [
-"@id",
-"contentbytesize"
+"contentbytesize",
+"@id"
 ],
 "version":
 1
@@ -58,7 +58,7 @@ true,
 "id":
 "84e51a9a-dc8b-11ea-ae66-7cdd908c7490",
 "refcommit":
-"f9dd4299e7d2358f6cac0889f711567e625a0fd9"
+"4c7b8f7055ad6b7ee71aeb6ceb3b5d5f26e9ef6b"
 },
 "study-100":
 {
