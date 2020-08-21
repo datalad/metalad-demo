@@ -41,8 +41,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -67,7 +67,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/72/5ababe4478b18122b08af7c21cbbfe421ea39d.xz",
+"objects/a2/ff7abafa33867c1b47e2b101168b22957028c2.xz",
 "extractors":
 {
 "annex":
@@ -104,8 +104,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -130,7 +130,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/c2/2198caac38531adee0b362ef9022f50f287ea0.xz",
+"objects/2a/b955d2c930a455ee4415094120f772f2d54e64.xz",
 "extractors":
 {
 "annex":
@@ -167,8 +167,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -193,7 +193,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/af/b5ead09c4ff8cdd7a3f1dc5e8138e802f184f6.xz",
+"objects/b7/95732714a168cd017dce87f96dcd299d5a3b3b.xz",
 "extractors":
 {
 "annex":
@@ -230,8 +230,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -256,7 +256,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/f8/71e80ff64e66f8a38eef311afad328b710c080.xz",
+"objects/42/24205df2553afbb319a289a0963660683b973d.xz",
 "extractors":
 {
 "annex":
@@ -293,8 +293,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -319,7 +319,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/d2/4207d2d41296ab05b4115ab5e2f4873044785e.xz",
+"objects/32/8aa725b608af5e26550804fd5cbeb5fe829e1e.xz",
 "extractors":
 {
 "annex":
@@ -356,8 +356,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -382,7 +382,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/79/3de3400d020eed8d77fde40c5f878b7b959fc0.xz",
+"objects/fb/7d0876922ab636e159bb5ecfc0f956a022afeb.xz",
 "extractors":
 {
 "annex":
@@ -419,8 +419,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -445,7 +445,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/da/0d96b6cf1b1c1a967b1d52d35dec742f0f1905.xz",
+"objects/db/8eb1cd0cc20d1f31856584e24e2bedbf8384b0.xz",
 "extractors":
 {
 "annex":
@@ -482,8 +482,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -508,7 +508,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/ce/a2db6c0eafbf486f164c772f15a14c98fd97a9.xz",
+"objects/38/c8d3dabbe10dd77368d99ac40d0613daccab03.xz",
 "extractors":
 {
 "annex":
@@ -545,8 +545,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -571,7 +571,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/18/08a80889a1642f6e6f5062bc099d75f7d6544f.xz",
+"objects/74/683616626e21eb096a735d55b0d77072bb8d7b.xz",
 "extractors":
 {
 "annex":
@@ -608,8 +608,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -634,7 +634,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/53/af9a11d45bfb7acfaa894ce49b107b67474cac.xz",
+"objects/95/c9d5c2fc2b1de16310386f901e786d6223b1e1.xz",
 "extractors":
 {
 "annex":
@@ -671,8 +671,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -697,7 +697,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/b7/b4b7023f243696067ed11395df422d7bdf9663.xz",
+"objects/f4/9713e54bcb7fa43be6c039e0321e9f4f5ade60.xz",
 "extractors":
 {
 "annex":
@@ -734,8 +734,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -760,7 +760,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/e7/ce4916ab00f0e50bd530f64d2d48400a4626e4.xz",
+"objects/0d/6672f4f6c9d0493f7f4fa8bf5c8dde08a1e1a5.xz",
 "extractors":
 {
 "annex":
@@ -797,8 +797,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -823,7 +823,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/f4/3e3487a9c434307b5fe6708af4ef7170cbec84.xz",
+"objects/33/d96980e9ab0fab06db3ff9993db0880f9a48ed.xz",
 "extractors":
 {
 "annex":
@@ -860,8 +860,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -886,7 +886,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/1e/df38401d709a7c112fc3d24ead8678b666c04b.xz",
+"objects/ef/d261c4ea2984a0185b6a21039a6a9496678d45.xz",
 "extractors":
 {
 "annex":
@@ -923,8 +923,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -949,7 +949,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/ca/9a2e47f1d6896e30fc49be13d63a2ea03b53a5.xz",
+"objects/5b/a0dbe48e025f49c68c9ec6d4148f9f9ffd6ec5.xz",
 "extractors":
 {
 "annex":
@@ -986,8 +986,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1012,7 +1012,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/73/2b145f13b28ba0cdb80fb14ab1f534a3eafa28.xz",
+"objects/57/595f9a27dbcb6fff28ef69356eaa2dbfec7f45.xz",
 "extractors":
 {
 "annex":
@@ -1049,8 +1049,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1075,7 +1075,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/1b/70e06bc33f61c817e6ce69facdea84a438c5c9.xz",
+"objects/ad/40134c069657da3fd15452a72b6cf0dbafc721.xz",
 "extractors":
 {
 "annex":
@@ -1112,8 +1112,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1138,7 +1138,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/22/583d1c2073b1e38470883a1a67738110b93191.xz",
+"objects/ac/7666c8f176eb2b75cf0c7db17188fc6d6749ce.xz",
 "extractors":
 {
 "annex":
@@ -1175,8 +1175,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1201,7 +1201,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/b2/d0682ca29048990cdd3fa9d1305376e5a0de47.xz",
+"objects/82/714716d7460275aae377a1dc032745176ef4ba.xz",
 "extractors":
 {
 "annex":
@@ -1238,8 +1238,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1264,7 +1264,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/c7/b437a894bba6eb2c0ea54cd845d29f4450a4ac.xz",
+"objects/c7/a24dc5337f5f0cd7a8c3a041713b280bb43651.xz",
 "extractors":
 {
 "annex":
@@ -1301,8 +1301,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1327,7 +1327,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/89/ad899e277c7ae96be7238abae52d5ea09ec679.xz",
+"objects/8b/34b5ff6a7e273a3a651661d720cd9d2a4e9f65.xz",
 "extractors":
 {
 "annex":
@@ -1364,8 +1364,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1390,7 +1390,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/53/662d878c8990277f11333a1c33dec19ae1bab7.xz",
+"objects/f4/b1b31fecd8f2dbf46385871090dc83df97bc41.xz",
 "extractors":
 {
 "annex":
@@ -1427,8 +1427,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1453,7 +1453,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/22/c054eb97bffb209ac273f307f6879b373d337a.xz",
+"objects/82/64e9f6127e6a39d19188243b3c70eef8a53901.xz",
 "extractors":
 {
 "annex":
@@ -1490,8 +1490,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1516,7 +1516,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/65/5c9c4b243f8a69ddb94c3dc6f3f94470bfa63e.xz",
+"objects/ae/254e128ce7eefe8e880a8159a0b55c7fb786b9.xz",
 "extractors":
 {
 "annex":
@@ -1553,8 +1553,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1579,7 +1579,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/1e/7dd02174284cb5bd86ac98aa3b7167053c6034.xz",
+"objects/7b/ac4ac18104d95b95318b92f36025824b8e40d5.xz",
 "extractors":
 {
 "annex":
@@ -1616,8 +1616,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
@@ -1642,7 +1642,7 @@ true,
 "datalad_version":
 "0.12.6",
 "dataset_info":
-"objects/29/93c5151af28b835756f53ea325514b050b8e09.xz",
+"objects/8e/2da9a3572d003ede3af30828124861f5bb9ad7.xz",
 "extractors":
 {
 "annex":
@@ -1679,8 +1679,8 @@ true,
 true,
 "unique_exclude":
 [
-"contentbytesize",
-"@id"
+"@id",
+"contentbytesize"
 ],
 "version":
 1
