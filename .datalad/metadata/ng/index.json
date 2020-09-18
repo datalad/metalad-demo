@@ -1,0 +1,1588 @@
+{
+    "version": "SimpleFileIndex-0.1",
+    "backend-version": "FileStorageBackend-0.1",
+    "paths": {
+        ".": {
+            "datalad_core": [
+                0,
+                1136
+            ],
+            "metalad_core": [
+                1136,
+                4794
+            ]
+        },
+        "study-100": {
+            "datalad_core": [
+                5930,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                6057,
+                60
+            ],
+            "metalad_core": [
+                6117,
+                800
+            ],
+            "metalad_ministudy": [
+                6917,
+                3896
+            ]
+        },
+        "study-100/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                10813,
+                96
+            ]
+        },
+        "study-101": {
+            "datalad_core": [
+                10909,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                11036,
+                60
+            ],
+            "metalad_core": [
+                11096,
+                800
+            ],
+            "metalad_ministudy": [
+                11896,
+                3738
+            ]
+        },
+        "study-101/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                15634,
+                96
+            ]
+        },
+        "study-102": {
+            "datalad_core": [
+                15730,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                15857,
+                60
+            ],
+            "metalad_core": [
+                15917,
+                798
+            ],
+            "metalad_ministudy": [
+                16715,
+                1485
+            ]
+        },
+        "study-102/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                18200,
+                94
+            ]
+        },
+        "study-103": {
+            "datalad_core": [
+                18294,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                18421,
+                60
+            ],
+            "metalad_core": [
+                18481,
+                798
+            ],
+            "metalad_ministudy": [
+                19279,
+                1479
+            ]
+        },
+        "study-103/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                20758,
+                94
+            ]
+        },
+        "study-104": {
+            "datalad_core": [
+                20852,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                20979,
+                60
+            ],
+            "metalad_core": [
+                21039,
+                798
+            ],
+            "metalad_ministudy": [
+                21837,
+                1516
+            ]
+        },
+        "study-104/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                23353,
+                94
+            ]
+        },
+        "study-106": {
+            "datalad_core": [
+                23447,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                23574,
+                60
+            ],
+            "metalad_core": [
+                23634,
+                800
+            ],
+            "metalad_ministudy": [
+                24434,
+                2989
+            ]
+        },
+        "study-106/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                27423,
+                96
+            ]
+        },
+        "study-107": {
+            "datalad_core": [
+                27519,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                27646,
+                60
+            ],
+            "metalad_core": [
+                27706,
+                800
+            ],
+            "metalad_ministudy": [
+                28506,
+                3291
+            ]
+        },
+        "study-107/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                31797,
+                96
+            ]
+        },
+        "study-108": {
+            "datalad_core": [
+                31893,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                32020,
+                60
+            ],
+            "metalad_core": [
+                32080,
+                800
+            ],
+            "metalad_ministudy": [
+                32880,
+                2888
+            ]
+        },
+        "study-108/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                35768,
+                96
+            ]
+        },
+        "study-109": {
+            "datalad_core": [
+                35864,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                35991,
+                60
+            ],
+            "metalad_core": [
+                36051,
+                800
+            ],
+            "metalad_ministudy": [
+                36851,
+                3535
+            ]
+        },
+        "study-109/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                40386,
+                96
+            ]
+        },
+        "study-115": {
+            "datalad_core": [
+                40482,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                40609,
+                60
+            ],
+            "metalad_core": [
+                40669,
+                800
+            ],
+            "metalad_ministudy": [
+                41469,
+                9780
+            ]
+        },
+        "study-115/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                51249,
+                96
+            ]
+        },
+        "study-44": {
+            "datalad_core": [
+                51345,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                51472,
+                60
+            ],
+            "metalad_core": [
+                51532,
+                798
+            ],
+            "metalad_ministudy": [
+                52330,
+                1348
+            ]
+        },
+        "study-44/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                53678,
+                94
+            ]
+        },
+        "study-47": {
+            "datalad_core": [
+                53772,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                53899,
+                60
+            ],
+            "metalad_core": [
+                53959,
+                800
+            ],
+            "metalad_ministudy": [
+                54759,
+                1658
+            ]
+        },
+        "study-47/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                56417,
+                96
+            ]
+        },
+        "study-74": {
+            "datalad_core": [
+                56513,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                56640,
+                60
+            ],
+            "metalad_core": [
+                56700,
+                800
+            ],
+            "metalad_ministudy": [
+                57500,
+                3929
+            ]
+        },
+        "study-74/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                61429,
+                96
+            ]
+        },
+        "study-82": {
+            "datalad_core": [
+                61525,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                61652,
+                60
+            ],
+            "metalad_core": [
+                61712,
+                800
+            ],
+            "metalad_ministudy": [
+                62512,
+                2927
+            ]
+        },
+        "study-82/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                65439,
+                96
+            ]
+        },
+        "study-83": {
+            "datalad_core": [
+                65535,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                65662,
+                60
+            ],
+            "metalad_core": [
+                65722,
+                800
+            ],
+            "metalad_ministudy": [
+                66522,
+                4977
+            ]
+        },
+        "study-83/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                71499,
+                96
+            ]
+        },
+        "study-84": {
+            "datalad_core": [
+                71595,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                71722,
+                60
+            ],
+            "metalad_core": [
+                71782,
+                800
+            ],
+            "metalad_ministudy": [
+                72582,
+                1778
+            ]
+        },
+        "study-84/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                74360,
+                96
+            ]
+        },
+        "study-85": {
+            "datalad_core": [
+                74456,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                74583,
+                60
+            ],
+            "metalad_core": [
+                74643,
+                800
+            ],
+            "metalad_ministudy": [
+                75443,
+                2331
+            ]
+        },
+        "study-85/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                77774,
+                96
+            ]
+        },
+        "study-90": {
+            "datalad_core": [
+                77870,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                77997,
+                60
+            ],
+            "metalad_core": [
+                78057,
+                800
+            ],
+            "metalad_ministudy": [
+                78857,
+                4254
+            ]
+        },
+        "study-90/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                83111,
+                96
+            ]
+        },
+        "study-91": {
+            "datalad_core": [
+                83207,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                83334,
+                60
+            ],
+            "metalad_core": [
+                83394,
+                800
+            ],
+            "metalad_ministudy": [
+                84194,
+                5625
+            ]
+        },
+        "study-91/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                89819,
+                96
+            ]
+        },
+        "study-92": {
+            "datalad_core": [
+                89915,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                90042,
+                60
+            ],
+            "metalad_core": [
+                90102,
+                800
+            ],
+            "metalad_ministudy": [
+                90902,
+                2279
+            ]
+        },
+        "study-92/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                93181,
+                96
+            ]
+        },
+        "study-93": {
+            "datalad_core": [
+                93277,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                93404,
+                60
+            ],
+            "metalad_core": [
+                93464,
+                800
+            ],
+            "metalad_ministudy": [
+                94264,
+                3819
+            ]
+        },
+        "study-93/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                98083,
+                96
+            ]
+        },
+        "study-95": {
+            "datalad_core": [
+                98179,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                98306,
+                60
+            ],
+            "metalad_core": [
+                98366,
+                800
+            ],
+            "metalad_ministudy": [
+                99166,
+                3414
+            ]
+        },
+        "study-95/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                102580,
+                96
+            ]
+        },
+        "study-96": {
+            "datalad_core": [
+                102676,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                102803,
+                60
+            ],
+            "metalad_core": [
+                102863,
+                800
+            ],
+            "metalad_ministudy": [
+                103663,
+                4448
+            ]
+        },
+        "study-96/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                108111,
+                96
+            ]
+        },
+        "study-97": {
+            "datalad_core": [
+                108207,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                108334,
+                60
+            ],
+            "metalad_core": [
+                108394,
+                800
+            ],
+            "metalad_ministudy": [
+                109194,
+                2636
+            ]
+        },
+        "study-97/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                111830,
+                96
+            ]
+        },
+        "study-98": {
+            "datalad_core": [
+                111926,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                112053,
+                60
+            ],
+            "metalad_core": [
+                112113,
+                800
+            ],
+            "metalad_ministudy": [
+                112913,
+                3289
+            ]
+        },
+        "study-98/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                116202,
+                96
+            ]
+        },
+        "study-99": {
+            "datalad_core": [
+                116298,
+                127
+            ],
+            "datalad_unique_content_properties": [
+                116425,
+                60
+            ],
+            "metalad_core": [
+                116485,
+                800
+            ],
+            "metalad_ministudy": [
+                117285,
+                3310
+            ]
+        },
+        "study-99/.metadata/ministudy.yaml": {
+            "metalad_core": [
+                120595,
+                96
+            ]
+        }
+    },
+    "dataset_paths": {
+        ".": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "84e51a9a-dc8b-11ea-ae66-7cdd908c7490",
+            "refcommit": "d2ed5b2b4df9b8acae1a76656dd9baee96a31f66"
+        },
+        "study-100": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "52142b84-dc76-11ea-98c5-7cdd908c7490",
+            "refcommit": "5a00c15a3b5fb33fd691c68b22b6b574abcfa523"
+        },
+        "study-101": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5146e8d6-dc76-11ea-a2da-7cdd908c7490",
+            "refcommit": "b9cea0cffc23044a75b51fd9d3b86af3b4abdd59"
+        },
+        "study-102": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "506ce096-dc76-11ea-95f0-7cdd908c7490",
+            "refcommit": "e2206981da0982529f2352468db2db120d632cc3"
+        },
+        "study-103": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4fb7be64-dc76-11ea-ad07-7cdd908c7490",
+            "refcommit": "ea028efce18e8c5e5190db0db492d0cc5f49caaa"
+        },
+        "study-104": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4f03a794-dc76-11ea-994b-7cdd908c7490",
+            "refcommit": "ac484822ba9865f365b31b4d434ea443bc3669d2"
+        },
+        "study-106": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4e6738a0-dc76-11ea-94dc-7cdd908c7490",
+            "refcommit": "16a5180ce10894caea968223b67ec1dfa86418e5"
+        },
+        "study-107": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4da8b48e-dc76-11ea-964e-7cdd908c7490",
+            "refcommit": "d518c4c97b86f7b99bc575b4cb4dcc27c4fff4be"
+        },
+        "study-108": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4ce38894-dc76-11ea-8fef-7cdd908c7490",
+            "refcommit": "8613085ae585a675853b51f637e8395045f70894"
+        },
+        "study-109": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4c2ee286-dc76-11ea-911b-7cdd908c7490",
+            "refcommit": "751a88a4792d9a1b60c714ee3c185b66f2d6b215"
+        },
+        "study-115": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "4b88f9a2-dc76-11ea-a40f-7cdd908c7490",
+            "refcommit": "3763d59c9922885feb6dd9a4a23ffb49bdd98909"
+        },
+        "study-44": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5d1d514a-dc76-11ea-a8da-7cdd908c7490",
+            "refcommit": "184ff6d37d7ee0323194310d2240abed18ac870e"
+        },
+        "study-47": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5c62610a-dc76-11ea-af43-7cdd908c7490",
+            "refcommit": "99bf69dc9f0f05e1f7d79df01b95588131861a5f"
+        },
+        "study-74": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5ba774b2-dc76-11ea-9186-7cdd908c7490",
+            "refcommit": "12564fe4444207c79f7259316eda3a99ff9b0a31"
+        },
+        "study-82": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5b050b1e-dc76-11ea-88a8-7cdd908c7490",
+            "refcommit": "663dfd43b5b3cfa7656a126b991886655bb1db70"
+        },
+        "study-83": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5a5bc5e0-dc76-11ea-a9da-7cdd908c7490",
+            "refcommit": "6770649665b5d6545cdcfa95a49d2ab0225d3637"
+        },
+        "study-84": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "59bff4ee-dc76-11ea-8f22-7cdd908c7490",
+            "refcommit": "6a2bb3004634160a959bf4d736ab628924a7be06"
+        },
+        "study-85": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "58ff8024-dc76-11ea-ad78-7cdd908c7490",
+            "refcommit": "506ba7d0912fe7d545398a5010fae7c33362020c"
+        },
+        "study-90": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "58253d06-dc76-11ea-aa7e-7cdd908c7490",
+            "refcommit": "9626bb5937057bac307fd028aa593b410e06a11d"
+        },
+        "study-91": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "57796120-dc76-11ea-a8c4-7cdd908c7490",
+            "refcommit": "8b26f4af433026061b6231b0a4af431236a61e2c"
+        },
+        "study-92": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "56da392e-dc76-11ea-91f4-7cdd908c7490",
+            "refcommit": "813072d485cd42cb677b2f12813a7dd760ab1371"
+        },
+        "study-93": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "56370470-dc76-11ea-b64b-7cdd908c7490",
+            "refcommit": "69c2e0b4cbcdcb857460e2ef38d06d9b188c5314"
+        },
+        "study-95": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "5599d916-dc76-11ea-8d5f-7cdd908c7490",
+            "refcommit": "ba7d6707bf2f7d0aa67b6aab2d06f857570b530e"
+        },
+        "study-96": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "54ded198-dc76-11ea-9eff-7cdd908c7490",
+            "refcommit": "43b7ac35c21cb779d685ac4e166eeb0cf6a617de"
+        },
+        "study-97": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "542308c8-dc76-11ea-940a-7cdd908c7490",
+            "refcommit": "86d2512a5655cce4d8e11ec9740b803087b01a6f"
+        },
+        "study-98": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "535edf84-dc76-11ea-979c-7cdd908c7490",
+            "refcommit": "97b1472075ce2b113524455ff6d73a2739062aa8"
+        },
+        "study-99": {
+            "datalad_version": "0.12.6",
+            "extractors": {
+                "annex": {
+                    "process_type": "all"
+                },
+                "datacite": {
+                    "process_type": "all"
+                },
+                "datalad_core": {
+                    "process_type": "all"
+                },
+                "metalad_annex": {
+                    "process_type": "all",
+                    "version": 1
+                },
+                "metalad_core": {
+                    "contributors": true,
+                    "modification-dates": true,
+                    "process_type": "all",
+                    "remotes": true,
+                    "unique_exclude": [
+                        "@id",
+                        "contentbytesize"
+                    ],
+                    "version": 1
+                },
+                "metalad_ministudy": {
+                    "process_type": "all",
+                    "version": "0.1"
+                }
+            },
+            "id": "52b2f098-dc76-11ea-a6da-7cdd908c7490",
+            "refcommit": "d185a5ee9118d54898eb8cda0da82c7e4e16235f"
+        }
+    },
+    "deleted_regions": []
+}

@@ -5,5 +5,5 @@
 	nativetype = datalad_core
 	nativetype = datacite
 	nativetype = metalad_core
-#        nativetype = metalad_ministudy
-        nativetype = metalad_ng
+        nativetype = metalad_studyminimeta
+#        nativetype = metalad_ng
