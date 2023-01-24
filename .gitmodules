@@ -1,104 +1,104 @@
 [submodule "study-100"]
 	path = study-100
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-100
+	url = https://gin.g-node.org/cmo/metadata-demo-study-100
 	datalad-id = 52142b84-dc76-11ea-98c5-7cdd908c7490
 [submodule "study-101"]
 	path = study-101
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-101
+	url = https://gin.g-node.org/cmo/metadata-demo-study-101
 	datalad-id = 5146e8d6-dc76-11ea-a2da-7cdd908c7490
 [submodule "study-102"]
 	path = study-102
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-102
+	url = https://gin.g-node.org/cmo/metadata-demo-study-102
 	datalad-id = 506ce096-dc76-11ea-95f0-7cdd908c7490
 [submodule "study-103"]
 	path = study-103
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-103
+	url = https://gin.g-node.org/cmo/metadata-demo-study-103
 	datalad-id = 4fb7be64-dc76-11ea-ad07-7cdd908c7490
 [submodule "study-104"]
 	path = study-104
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-104
+	url = https://gin.g-node.org/cmo/metadata-demo-study-104
 	datalad-id = 4f03a794-dc76-11ea-994b-7cdd908c7490
 [submodule "study-106"]
 	path = study-106
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-106
+	url = https://gin.g-node.org/cmo/metadata-demo-study-106
 	datalad-id = 4e6738a0-dc76-11ea-94dc-7cdd908c7490
 [submodule "study-107"]
 	path = study-107
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-107
+	url = https://gin.g-node.org/cmo/metadata-demo-study-107
 	datalad-id = 4da8b48e-dc76-11ea-964e-7cdd908c7490
 [submodule "study-108"]
 	path = study-108
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-108
+	url = https://gin.g-node.org/cmo/metadata-demo-study-108
 	datalad-id = 4ce38894-dc76-11ea-8fef-7cdd908c7490
 [submodule "study-109"]
 	path = study-109
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-109
+	url = https://gin.g-node.org/cmo/metadata-demo-study-109
 	datalad-id = 4c2ee286-dc76-11ea-911b-7cdd908c7490
 [submodule "study-115"]
 	path = study-115
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-115
+	url = https://gin.g-node.org/cmo/metadata-demo-study-115
 	datalad-id = 4b88f9a2-dc76-11ea-a40f-7cdd908c7490
 [submodule "study-44"]
 	path = study-44
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-44
+	url = https://gin.g-node.org/cmo/metadata-demo-study-44
 	datalad-id = 5d1d514a-dc76-11ea-a8da-7cdd908c7490
 [submodule "study-47"]
 	path = study-47
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-47
+	url = https://gin.g-node.org/cmo/metadata-demo-study-47
 	datalad-id = 5c62610a-dc76-11ea-af43-7cdd908c7490
 [submodule "study-74"]
 	path = study-74
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-74
+	url = https://gin.g-node.org/cmo/metadata-demo-study-74
 	datalad-id = 5ba774b2-dc76-11ea-9186-7cdd908c7490
 [submodule "study-82"]
 	path = study-82
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-82
+	url = https://gin.g-node.org/cmo/metadata-demo-study-82
 	datalad-id = 5b050b1e-dc76-11ea-88a8-7cdd908c7490
 [submodule "study-83"]
 	path = study-83
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-83
+	url = https://gin.g-node.org/cmo/metadata-demo-study-83
 	datalad-id = 5a5bc5e0-dc76-11ea-a9da-7cdd908c7490
 [submodule "study-84"]
 	path = study-84
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-84
+	url = https://gin.g-node.org/cmo/metadata-demo-study-84
 	datalad-id = 59bff4ee-dc76-11ea-8f22-7cdd908c7490
 [submodule "study-85"]
 	path = study-85
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-85
+	url = https://gin.g-node.org/cmo/metadata-demo-study-85
 	datalad-id = 58ff8024-dc76-11ea-ad78-7cdd908c7490
 [submodule "study-90"]
 	path = study-90
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-90
+	url = https://gin.g-node.org/cmo/metadata-demo-study-90
 	datalad-id = 58253d06-dc76-11ea-aa7e-7cdd908c7490
 [submodule "study-91"]
 	path = study-91
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-91
+	url = https://gin.g-node.org/cmo/metadata-demo-study-91
 	datalad-id = 57796120-dc76-11ea-a8c4-7cdd908c7490
 [submodule "study-92"]
 	path = study-92
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-92
+	url = https://gin.g-node.org/cmo/metadata-demo-study-92
 	datalad-id = 56da392e-dc76-11ea-91f4-7cdd908c7490
 [submodule "study-93"]
 	path = study-93
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-93
+	url = https://gin.g-node.org/cmo/metadata-demo-study-93
 	datalad-id = 56370470-dc76-11ea-b64b-7cdd908c7490
 [submodule "study-95"]
 	path = study-95
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-95
+	url = https://gin.g-node.org/cmo/metadata-demo-study-95
 	datalad-id = 5599d916-dc76-11ea-8d5f-7cdd908c7490
 [submodule "study-96"]
 	path = study-96
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-96
+	url = https://gin.g-node.org/cmo/metadata-demo-study-96
 	datalad-id = 54ded198-dc76-11ea-9eff-7cdd908c7490
 [submodule "study-97"]
 	path = study-97
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-97
+	url = https://gin.g-node.org/cmo/metadata-demo-study-97
 	datalad-id = 542308c8-dc76-11ea-940a-7cdd908c7490
 [submodule "study-98"]
 	path = study-98
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-98
+	url = https://gin.g-node.org/cmo/metadata-demo-study-98
 	datalad-id = 535edf84-dc76-11ea-979c-7cdd908c7490
 [submodule "study-99"]
 	path = study-99
-	url = /home/cristian/datalad/inm7-studies/study-datasets/study-99
+	url = https://gin.g-node.org/cmo/metadata-demo-study-99
 	datalad-id = 52b2f098-dc76-11ea-a6da-7cdd908c7490
